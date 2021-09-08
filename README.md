@@ -1,2 +1,2 @@
-# Projetos-Python
-Neste repositório colocarei meus projetos de Python
+# Projetos de Python
+Neste repositório estão alguns dos meus projetos de Python
